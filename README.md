@@ -27,7 +27,6 @@ info@figtreerestaurantug.com
 
 4. Gaps and challenges
 
-Based on the available business information and customer reviews, you can identify these potential gaps:
 
 Gap / Challenge	What it means
 Customer ordering	Customers may benefit from a more convenient digital ordering system rather than relying mainly on calls/messages.
@@ -77,10 +76,6 @@ This would be a strong web-development project because it directly addresses rea
 
 7. Existing similar solutions in the market
 
-There are already restaurant-management and food-ordering platforms that provide some of these functions. However, Fig Tree could benefit from a custom system designed specifically around its operations, including its restaurant, events, garden/meeting spaces and other services. Public information shows that Fig Tree offers restaurant services, delivery/takeaway, outdoor seating, meeting space and event-related services. 
+There are already restaurant-management and food-ordering platforms that provide some of these functions. However, Fig Tree could benefit from a custom system designed specifically around its operations, including its restaurant, events, garden/meeting spaces and other services. it shows that Fig Tree offers restaurant services, delivery/takeaway, outdoor seating, meeting space and event-related services. 
 
-A good final project title would be:
 
-“Digital Restaurant Management and Online Ordering System for Fig Tree Restaurant, Kansanga.”
-
-Important: For your assignment, don’t write that Sarah is definitely the official manager unless you confirm it directly with Fig Tree. The public sources only identify her as a manager in a customer review.
